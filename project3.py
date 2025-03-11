@@ -1,5 +1,4 @@
 # James Ocampo
-# U69643093
 # Machine Learning was used for only Coin Classification, please see train.py for the training process
 
 import cv2
